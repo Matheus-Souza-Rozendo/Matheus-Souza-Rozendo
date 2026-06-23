@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Matheus Souza Rozendo
 
-🎓 **Graduando em Engenharia de Controle e Automação**  
-📍 Universidade Federal de Santa Catarina (UFSC)
+🎓 **Graduando em Engenharia de Controle e Automação** 📍 Universidade Federal de Santa Catarina (UFSC)
 
 ---
 
@@ -13,6 +12,7 @@
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
 [![Controle de Processos](https://img.shields.io/badge/Controle%20de%20Processos-FF6F00?style=for-the-badge&logo=gear&logoColor=white)](https://pt.wikipedia.org/wiki/Controle_de_processos)
 [![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://core.telegram.org/bots)
@@ -20,14 +20,17 @@
 ---
 
 ## 💼 Experiências
-
-- 🏭 **Estagiário de Engenharia de Qualidade** — *Hennings Vedações e Mangueiras*  
-- 💻 **Estagiário em Desenvolvimento de Sistemas** — *UFSC*  
+- 🏭 **Estagiário Manutenção Industrial** — *Kraft Heinz* 
+- 🏭 **Estagiário de Engenharia de Qualidade** — *Hennings Vedações e Mangueiras* 
+- 💻 **Estagiário em Desenvolvimento de Sistemas** — *UFSC* 
 - 📘 **Monitor de Algoritmos e Estruturas de Dados** — *UFSC*
 
 ---
 
 ## 🚀 Projetos em Destaque
+
+### 👁️ **Visão Computacional**
+- [🚗 Reconhecimento Automático de Placas (LPR/ANPR) com Processamento Clássico de Imagens](https://github.com/Matheus-Souza-Rozendo/pure-cv-anpr)
 
 ### 🧰 **DevOps**
 - [🤖 Bot do Telegram para inicializar remotamente o Chrome Remote Desktop no Ubuntu](https://github.com/Matheus-Souza-Rozendo/bot_comando_remoto)
@@ -48,7 +51,3 @@
 ---
 
 💡 *“Transformando ideias em soluções práticas por meio da automação, controle e desenvolvimento de software.”*
-
-<!---
-Matheus-Souza-Rozendo/Matheus-Souza-Rozendo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
