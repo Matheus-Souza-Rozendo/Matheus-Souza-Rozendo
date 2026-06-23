@@ -20,9 +20,9 @@
 ---
 
 ## 💼 Experiências
-- 🏭 **Estagiário Manutenção Industrial** — *Kraft Heinz* 
-- 🏭 **Estagiário de Engenharia de Qualidade** — *Hennings Vedações e Mangueiras* 
-- 💻 **Estagiário em Desenvolvimento de Sistemas** — *UFSC* 
+- 🏭 **Estagiário Manutenção Industrial** — *Kraft Heinz*
+- 🏭 **Estagiário de Engenharia de Qualidade** - *Hennings Vedações e Mangueiras*
+- 💻 **Estagiário em Desenvolvimento de Sistemas** — *UFSC*
 - 📘 **Monitor de Algoritmos e Estruturas de Dados** — *UFSC*
 
 ---
@@ -31,6 +31,7 @@
 
 ### 👁️ **Visão Computacional**
 - [🚗 Reconhecimento Automático de Placas (LPR/ANPR) com Processamento Clássico de Imagens](https://github.com/Matheus-Souza-Rozendo/pure-cv-anpr)
+- [🏷️ Leitor de Etiquetas Industriais (OCR) e Correção de Perspectiva com OpenCV](https://github.com/Matheus-Souza-Rozendo/opencv-label-ocr)
 
 ### 🧰 **DevOps**
 - [🤖 Bot do Telegram para inicializar remotamente o Chrome Remote Desktop no Ubuntu](https://github.com/Matheus-Souza-Rozendo/bot_comando_remoto)
